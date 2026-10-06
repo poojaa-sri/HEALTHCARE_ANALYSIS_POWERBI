@@ -1,33 +1,33 @@
-# Healthcare Data Analysis using Power BI
+## Dashboard Preview
 
-## Project Overview
+![HEALTHCARE_ANALYSIS_SCREENSHOT](HOSPITAL_OVERVIEW.png,PATIENT_ANALYSIS.png,APPOINTMENT_TREATMENT_ANALYSIS.png)
 
-This project focuses on analyzing healthcare data using Microsoft Power BI to identify meaningful patterns and insights that support data-driven decision-making.
+## Key Performance Indicators (KPIs)
+
+- Total Patients: 1,000
+- Total Doctors: 50
+- Total Appointments: 3,000
+- Total Revenue: 7.75M
+
+## Visualizations
+
+- Appointment Status Distribution
+- Monthly Appointment Trends
+- Revenue by Payment Method
+- Doctor-wise Appointment Performance
+- Monthly Revenue Trend
+
+## Interactive Filters
+
+- Appointment Date
+- Doctor Name
+- Appointment Status
 
 ## Tools Used
 
-* Microsoft Power BI
-* Power Query
-* DAX (if used in the project)
-
-## Project Objectives
-
-* Analyze healthcare data.
-* Create interactive dashboards and visualizations.
-* Identify important healthcare trends and patterns.
-* Present key insights through charts and reports.
-
-## Dashboard
-
-The Power BI dashboard file is available in this repository:
-
-`HEALTHCARE_ANALYSIS PROJECT.pbix`
-
-Download the file and open it using Microsoft Power BI Desktop to explore the report.
-
-## Key Insights
-
-Add the actual findings from your dashboard here, such as patient statistics, treatment trends, or other metrics available in your dataset.
+- Microsoft Power BI
+- Data Visualization
+- Interactive Dashboard Design
 
 ## Author
 
